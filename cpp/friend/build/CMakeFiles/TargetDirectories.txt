@@ -1,0 +1,3 @@
+/home/wt/Test/build/CMakeFiles/friend.dir
+/home/wt/Test/build/CMakeFiles/edit_cache.dir
+/home/wt/Test/build/CMakeFiles/rebuild_cache.dir

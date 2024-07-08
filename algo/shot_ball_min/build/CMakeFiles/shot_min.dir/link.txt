@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/shot_min.dir/shot_min.cpp.o -o shot_min   -L/usr/lib/gtest  -Wl,-rpath,/usr/lib/gtest /usr/lib/gtest/libgtest.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/char_class.dir/char_class.cpp.o -o char_class   -L/usr/lib/gtest  -Wl,-rpath,/usr/lib/gtest -lgtest 

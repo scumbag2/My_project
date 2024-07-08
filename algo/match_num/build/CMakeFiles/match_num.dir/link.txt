@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/match_num.dir/match_num.cpp.o -o match_num   -L/usr/lib/gtest  -Wl,-rpath,/usr/lib/gtest /usr/lib/gtest/libgtest.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lamada.dir/lamada.cpp.o -o lamada 

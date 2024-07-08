@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/jicheng.dir/jicheng.cpp.o -o jicheng 

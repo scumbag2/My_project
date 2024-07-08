@@ -1,0 +1,3 @@
+/home/wt/Test/algo/shot_ball_min/build/CMakeFiles/shot_min.dir
+/home/wt/Test/algo/shot_ball_min/build/CMakeFiles/edit_cache.dir
+/home/wt/Test/algo/shot_ball_min/build/CMakeFiles/rebuild_cache.dir

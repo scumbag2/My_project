@@ -1,0 +1,3 @@
+/home/wt/Test/algo/sheji/build/CMakeFiles/sheji.dir
+/home/wt/Test/algo/sheji/build/CMakeFiles/edit_cache.dir
+/home/wt/Test/algo/sheji/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/wt/Test/algo/console_class/build/CMakeFiles/console.dir
+/home/wt/Test/algo/console_class/build/CMakeFiles/edit_cache.dir
+/home/wt/Test/algo/console_class/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/wt/Test/algo/max_num/build/CMakeFiles/max_num.dir
+/home/wt/Test/algo/max_num/build/CMakeFiles/edit_cache.dir
+/home/wt/Test/algo/max_num/build/CMakeFiles/rebuild_cache.dir

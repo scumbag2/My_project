@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/max_num.dir/max_num.cpp.o -o max_num   -L/usr/lib/gtest  -Wl,-rpath,/usr/lib/gtest -lgtest 

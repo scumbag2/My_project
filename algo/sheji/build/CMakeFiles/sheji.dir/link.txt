@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sheji.dir/sheji.cpp.o -o sheji   -L/usr/lib/gtest  -Wl,-rpath,/usr/lib/gtest -lgtest 

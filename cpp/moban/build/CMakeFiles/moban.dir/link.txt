@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/moban.dir/moban.cpp.o -o moban 

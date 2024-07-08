@@ -1,0 +1,3 @@
+/home/wt/Test/algo/match_num/build/CMakeFiles/match_num.dir
+/home/wt/Test/algo/match_num/build/CMakeFiles/edit_cache.dir
+/home/wt/Test/algo/match_num/build/CMakeFiles/rebuild_cache.dir

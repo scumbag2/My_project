@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/char_judge.dir/char_judge.cpp.o -o char_judge   -L/usr/lib/gtest  -Wl,-rpath,/usr/lib/gtest -lgtest 

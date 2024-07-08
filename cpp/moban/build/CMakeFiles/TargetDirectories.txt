@@ -1,0 +1,3 @@
+/home/wt/Test/cpp/moban/build/CMakeFiles/moban.dir
+/home/wt/Test/cpp/moban/build/CMakeFiles/edit_cache.dir
+/home/wt/Test/cpp/moban/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/88.dir/88.cpp.o CMakeFiles/88.dir/test/test.cpp.o -o 88   -L/usr/lib/gtest  -Wl,-rpath,/usr/lib/gtest -lgtest 

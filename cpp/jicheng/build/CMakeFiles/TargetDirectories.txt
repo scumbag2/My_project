@@ -1,0 +1,3 @@
+/home/wt/Test/cpp/jicheng/build/CMakeFiles/jicheng.dir
+/home/wt/Test/cpp/jicheng/build/CMakeFiles/edit_cache.dir
+/home/wt/Test/cpp/jicheng/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/console.dir/console.cpp.o -o console   -L/usr/lib/gtest  -Wl,-rpath,/usr/lib/gtest -lgtest 

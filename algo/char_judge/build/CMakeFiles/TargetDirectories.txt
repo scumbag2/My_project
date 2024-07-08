@@ -1,0 +1,3 @@
+/home/wt/Test/algo/char_judge/build/CMakeFiles/char_judge.dir
+/home/wt/Test/algo/char_judge/build/CMakeFiles/edit_cache.dir
+/home/wt/Test/algo/char_judge/build/CMakeFiles/rebuild_cache.dir

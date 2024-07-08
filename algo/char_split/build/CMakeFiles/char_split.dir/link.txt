@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/char_split.dir/char_split.cpp.o -o char_split   -L/usr/lib/gtest  -Wl,-rpath,/usr/lib/gtest -lgtest 
